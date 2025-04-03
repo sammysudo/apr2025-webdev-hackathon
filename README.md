@@ -1,6 +1,6 @@
 # Samuel Wesa Portfolio Website
 
-Welcome to my personal portfolio website! I am Samuel Wesa, a Web Developer and Graphic Designer from Kenya. This website showcases my skills, experience, and projects in web development and design. It highlights my expertise in frontend and backend development, as well as my passion for educating and mentoring upcoming developers.
+Welcome to my **sample** personal portfolio website! I am Samuel Wesa, a student and upcoming Front End Web developer. This website showcases my skills and experience, in web development and design. 
 
 ## Features
 - **Responsive Design**: Optimized for both desktop and mobile devices.
@@ -15,7 +15,7 @@ Welcome to my personal portfolio website! I am Samuel Wesa, a Web Developer and 
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/sammysudo/apr2025-webdev-hackathon.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -39,3 +39,4 @@ Feel free to reach out to me for collaborations or inquiries:
 - **Mobile**: +254791573759
 
 Explore the site to learn more about me, my work, and how to get in touch!
+It is just a sample website hence does not exactly reflect my current status :)
